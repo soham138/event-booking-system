@@ -1,0 +1,18 @@
+# Compiled Java files
+*.class
+bin/
+*.jar
+!lib/mysql-connector-j-9.6.0.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.bak
+*.tmp
